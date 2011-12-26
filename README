@@ -8,4 +8,3 @@ Download
 Get the source code from GIT:
 
 git clone git://github.com/widgetfactory/jce-languages.git
-git checkout en-GB (replace en-GB with the language branch you require - if it exists)
